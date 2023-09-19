@@ -6,3 +6,6 @@
 
  **Comment From Elaine Zhang:**
  I agree that nowadays, people begin to panic around self-learned artificial intelligence and automation. It seems like many jobs, not only software developments, but potentiall accountants would disappear. Nevertheless, I found it intrigued where the article and you mentioned that we should see emerging and developing technologies as an oportunity, not as an enemy. If we use technology well, it helps to grow and make more innovations.
+
+ **Steven Li (zl3241)'s Comment**
+ The case that FORTRAN, COBOL, and Waterfall not only did not replace the need for software engineers and computer programmers but also created even greater demand for coders demonstrated that ChatGPT will not generate a huge threat to the job of programmers. We as software engineers should employ chatGPT as a tool to better improve the quality of our work. However, I cannot help but to consider the difference between ChatGPT and FORTRAN/COBOL. ChatGPT is a LLM that is rapidly developing and evolving. Does the history lesson from FORTRAN and COBOL really applies to the case of ChatGPT?
